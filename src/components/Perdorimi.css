@@ -1,0 +1,19 @@
+.Perdorimi {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 5%;
+}
+    .permbajtja{
+        border: 0px  solid lightblue;
+        width: 30% ;
+        margin: 20px 0;
+    }
+    .h5{
+        font-size: larger;
+        margin-bottom: 5%;
+        font-style: italic   ;
+    }
+    .p {
+        font-size: 20px;
+    }
